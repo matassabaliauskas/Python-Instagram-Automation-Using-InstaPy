@@ -1,0 +1,4 @@
+1. Download & Install InstaPy package
+2. Download and copy paste geckodriver.exe into directory for firefox automation
+3. Customize the script to whatever interaction you need
+4. Run script in either headless (Hidden) or normal mode
